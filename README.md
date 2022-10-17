@@ -12,6 +12,11 @@ ToDo List
 - Python + Pytorch
 - NN 网络构建
 
+## 前期工作
+
+- [ ] 总结代表性工作与实现项目
+- [ ] Gitbook - DRL Tutorial
+
 ## 功能实现
 
 ### Agent
@@ -19,7 +24,7 @@ ToDo List
 - [ ] Base Class （构建通用模型)
 - [ ] Agnet 组件，可灵活构建 
 - [ ] 简单 Agent, e.g., DQN, DDPG
-- [ ] 近10年代表性工作
+- [ ] 近5年代表性工作
 
 ### 环境
 
